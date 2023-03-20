@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="ASUS A409FJ"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-03-08 08:06:23 AM"/>
+        <attribute name="created" value="QVNVUyBBNDA5Rko7UFBMRzEyMjA5MjYxLVNVOzIwMjMtMDMtMDg7MDc6NTY6MjMgQU07MjkxMQ=="/>
+        <attribute name="edited" value="QVNVUyBBNDA5Rko7UFBMRzEyMjA5MjYxLVNVOzIwMjMtMDMtMDg7MDg6MDY6MjMgQU07MTszMDE1"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="Bil" type="Integer" array="False" size=""/>
+            <for variable="Bil" start="0" end="3" direction="inc" step="1">
+                <output expression="Bil" newline="True"/>
+            </for>
+        </body>
+    </function>
+</flowgorithm>
